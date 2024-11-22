@@ -1,1 +1,1 @@
-# django-student-attendance-system-master
+# django-student-attendance-system
